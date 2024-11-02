@@ -4,12 +4,12 @@
 
 与 LaTeX 相比:
 
-- 生态不成熟: Typst 提供了包索引 [Typst universe], 但目前包的数量以及完成度都无法与 LaTeX 相比.
+- **生态不成熟**: Typst 提供了包索引 [Typst universe], 但目前包的数量以及完成度都无法与 LaTeX 相比.
 - 语法更加简洁易用.
-- 包管理: Typst 会在编译时自动下载所需的包.
-- 安装简单: 安装 Typst 与安装其他 CLI 工具类似.
-- 体积小巧: Typst 只是一个编译器, 体积约 35 MB. 而 LaTeX (MiKTeX, TeX Live) 则需要数 GB.
-- 在线使用: Typst 官方提供了一个商业化的在线编辑器, 类似 LaTeX 的 Overleaf.
+- **无感包管理**: Typst 会在编译时自动下载所需的包.
+- **安装简单**: 安装 Typst 与安装其他 CLI 工具类似.
+- **体积小巧**: Typst 只是一个编译器, 体积约 35 MB. 而 LaTeX (MiKTeX, TeX Live) 则需要数 GB.
+- **在线使用**: Typst 官方提供了一个商业化的在线编辑器, 类似 LaTeX 的 Overleaf.
 
 ## 字体
 
