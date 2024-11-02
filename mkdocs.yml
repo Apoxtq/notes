@@ -1,10 +1,10 @@
 site_name: Notes
 site_description: Learning notes.
 site_author: ShenMian
-site_url: https://shenmian.github.io/notes/
+site_url: https://apoxtq.github.io/notes/
 
 repo_name: ShenMian/notes
-repo_url: https://github.com/ShenMian/notes/
+repo_url: https://apoxtq.github.io/notes/
 
 # https://squidfunk.github.io/mkdocs-material/setup/changing-the-colors/
 theme:
