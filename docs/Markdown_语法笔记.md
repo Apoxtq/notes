@@ -1,6 +1,6 @@
 # Markdown 基本语法
 
-笔记来源：[Markdown 教程]（https://markdown.com.cn/）
+笔记来源：[Markdown 教程](https://markdown.com.cn/)
 
 ## 快速总结：
 1. 创建标题
